@@ -76,4 +76,4 @@
 
 7.  npm install -D ts-node @types/node  ( So that Tailwind can understand and run tailwind.config.ts file. Without it, Tailwind can't process .ts config files. )
 
-9.  
+9.  npm install react-responsive-carousel
