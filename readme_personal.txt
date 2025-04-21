@@ -58,3 +58,22 @@
 - Managing requests
 - Legal concerns
 
+
+
+---- PROJECT STARTS ----
+
+1.  npx create-next-app@latest
+
+2.  npm run dev
+
+3.  VS Code Extension to work rafce : es7+
+
+4.  npm install -D tailwindcss@3 postcss autoprefixer ( Installs tailwind )
+
+5.  npx tailwindcss init -p ( Generates tailwind.config.js file )
+
+6.  mv tailwind.config.js tailwind.config.ts ( To convert .js file to .ts file )
+
+7.  npm install -D ts-node @types/node  ( So that Tailwind can understand and run tailwind.config.ts file. Without it, Tailwind can't process .ts config files. )
+
+9.  
